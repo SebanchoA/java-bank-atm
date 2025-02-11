@@ -1,0 +1,23 @@
+[33mcommit 30a33d17d5769350c554e3b2c28081fd89650ffe[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Sebancho <jsag98@gmail.com>
+Date:   Tue Feb 11 09:58:54 2025 -0500
+
+    Se crreó nuevo archivo de prueba
+
+[33mcommit f4dca691b38f4adabb52ddf98ff342368eb0f981[m[33m ([m[1;32mfeature-setup[m[33m)[m
+Author: Sebancho <jsag98@gmail.com>
+Date:   Tue Feb 11 08:55:00 2025 -0500
+
+    Cambio en otra rama
+
+[33mcommit fd0b76ef2fe16f1c3f5318920e185314a51e2187[m
+Author: Sebancho <jsag98@gmail.com>
+Date:   Tue Feb 11 08:53:47 2025 -0500
+
+    Se agregó funcionalidad
+
+[33mcommit 7e5002885e3c247fb3b8092ae062ac06eedfcec5[m
+Author: Sebancho <jsag98@gmail.com>
+Date:   Mon Feb 10 11:35:58 2025 -0500
+
+    Inicio del proyecto
